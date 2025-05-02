@@ -1,4 +1,4 @@
-function Timestamp({ timestamp }) {
-  return <span className="timestamp">{timestamp}</span>;
+function Timestamp({ time }) {
+  return <span className="timestamp">{time}</span>;
 }
 export default Timestamp;
